@@ -1,0 +1,19 @@
+{
+  "students": [
+    {
+      "id": "e6984582-923c-4213-b9ec-b5f14615f030",
+      "name": "nam",
+      "personalNumber": "12345678901"
+    },
+    {
+      "id": "d39d7bf8-642d-45b2-8f28-6854d3d36ca2",
+      "name": "ss",
+      "personalNumber": "dsdsd"
+    },
+    {
+      "id": "f3ab167a-9d74-4be7-abd8-25fde3b40254",
+      "name": "nb",
+      "personalNumber": "io98"
+    }
+  ]
+}
